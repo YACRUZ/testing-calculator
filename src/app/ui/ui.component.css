@@ -41,9 +41,11 @@
     cursor: pointer;
     color: purple;
 }
-
 .division-button {
     cursor: pointer;
     color: red;
 }
-
+.sqr-button {
+    cursor: pointer;
+    color: brown;
+}
