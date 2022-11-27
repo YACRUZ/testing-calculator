@@ -49,3 +49,7 @@
     cursor: pointer;
     color: brown;
 }
+.sqrt-button {
+    cursor: pointer;
+    color: gray;
+}
