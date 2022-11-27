@@ -42,3 +42,8 @@
     color: purple;
 }
 
+.division-button {
+    cursor: pointer;
+    color: red;
+}
+
